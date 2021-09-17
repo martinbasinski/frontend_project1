@@ -1,0 +1,130 @@
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  color: #66bfbf;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #66bfbf;
+  font-size: 2.5rem;
+  padding-bottom: ;
+}
+
+h3 {
+  color: #66bfbf;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #eaf6f6 8px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px, auto;
+}
+
+a{
+    color: #11999E;
+    margin: 10px 20px;
+    text-decoration: none;
+
+}
+
+a:hover{
+    color:#ffffff
+}
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding: 50px 0 20px;
+}
+.middle-container {
+  margin: 100px 0;
+}
+.bottom-container {
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+
+}
+
+.zdjecie {
+  width: 150px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.intro {
+  margin: auto;
+  width: 30%;
+}
+.contact-message{
+  margin: 40px auto 60px;
+  width: 40%;  
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 4 0px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.skills-picture {
+  width: 25%;
+  border-radius: 10%;
+  float: left;
+  margin-right: 30px;
+}
+.skills-pic2 {
+  width: 25%;
+  border-radius: 10%;
+  float: right;
+  margin-right: 30px;
+}
+
+.btn {
+	box-shadow:inset 0px -3px 7px 0px #66bfbf;
+	background-color:#66bfbf;
+	border-radius:3px;
+	border:1px solid #0b0e07;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:9px 23px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #263666;
+}
+.btn:hover {
+	background-color:#38caff;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.spod{
+    margin: bottom 0 0 ; 
+}
